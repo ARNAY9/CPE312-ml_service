@@ -1,2 +1,2 @@
-# CPE312-ml_service
+# 394_ml_service
 Test
